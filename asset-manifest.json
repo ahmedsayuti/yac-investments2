@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/yac-investments2/static/css/main.bb53aa26.css",
-    "main.js": "/yac-investments2/static/js/main.604aea40.js",
+    "main.js": "/yac-investments2/static/js/main.67d8b70d.js",
     "static/js/453.1fee6cb7.chunk.js": "/yac-investments2/static/js/453.1fee6cb7.chunk.js",
     "static/media/yac-logo.png": "/yac-investments2/static/media/yac-logo.e96f8030ad91d7e9dc26.png",
     "index.html": "/yac-investments2/index.html",
     "main.bb53aa26.css.map": "/yac-investments2/static/css/main.bb53aa26.css.map",
-    "main.604aea40.js.map": "/yac-investments2/static/js/main.604aea40.js.map",
+    "main.67d8b70d.js.map": "/yac-investments2/static/js/main.67d8b70d.js.map",
     "453.1fee6cb7.chunk.js.map": "/yac-investments2/static/js/453.1fee6cb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb53aa26.css",
-    "static/js/main.604aea40.js"
+    "static/js/main.67d8b70d.js"
   ]
 }
